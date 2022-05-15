@@ -1,6 +1,11 @@
+Practical Machine Deep Learning project
+Sentiment Classification
+Dr.mostafa youssef
+
+By: Abdelrahman Elgammal - 900181126
+    Abdelrahman Abouzeid - 900181004
 
 
-Experiments for various configuration can be run using the `run.py`. First of all, install the python packages (preferably in a clean virtualenv): `pip install -r requirements.txt`
 
 ```
 Usage: run.py [OPTIONS]
@@ -17,5 +22,5 @@ Usage: run.py [OPTIONS]
 
 For example, to run the experiment for binary labels and root nodes, run:
 
-    python3 run.py -rb
+    python3 run.py -r -b -s
 
