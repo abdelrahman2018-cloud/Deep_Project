@@ -2,7 +2,7 @@ Practical Machine Deep Learning project
 Sentiment Classification
 Dr.mostafa youssef
 
-By: Abdelrahman Elgammal - 900181126
+By: Abdelrahman Elgammal - 900181126 // 
     Abdelrahman Abouzeid - 900181004
 
 
