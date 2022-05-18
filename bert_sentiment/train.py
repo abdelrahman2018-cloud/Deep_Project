@@ -56,7 +56,7 @@ def train(
     root=True,
     binary=False,
     bert="bert-base-uncased",
-    epochs=5,
+    epochs=7,
     batch_size=32,
     save=False,
 ):
