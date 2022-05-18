@@ -94,5 +94,7 @@ def train(
             label = "binary" if binary else "fine"
             nodes = "root" if root else "all"
             torch.save(model, f"{bert}__{nodes}__{label}__e{epoch}.pickle")
+            torch.save(model.state_dict, f"{bert}__{nodes}__{label}__e{epoch}_weights.pickle")
+
 
     logger.success("Done!")
